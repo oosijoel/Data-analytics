@@ -2,4 +2,4 @@
 Data analytics projects
 
 Online_store:
-  Data preprocessing and exploratory data analysis.
+  Data preprocessing and exploratory data analysis from a sample dataset.
